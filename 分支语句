@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main()
+{
+int age=10;
+if(age>=18)
+   pirntf("成年\n",age);
+else
+   printf(未成年\n,age);
+return 0;
+}
